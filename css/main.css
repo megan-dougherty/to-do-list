@@ -1,0 +1,38 @@
+body {
+	text-align:center;
+
+}
+
+html {
+	background: url('../img/background.jpg');
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 60px;
+	margin-top: 3%;
+}
+
+input {
+	margin-bottom:40px;
+	box-shadow: 10px 10px 5px #888888;
+	background: transparent;
+
+}
+
+li {
+	font-family: 'Permanent Marker', cursive;
+	text-align:left;
+	font-size:20px;
+}
+
+h1 {
+	padding-top: 2%;
+}
+
+button {
+	font-size: 15px;
+	border-radius: 3px;
+	border: 1px solid #79b2d3;
+	background: transparent;
+}
